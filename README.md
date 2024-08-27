@@ -25,7 +25,7 @@
 
 _________
 
-## Projeto 2: Adeus manual chato! RAG chatbot para motoristas.
+## [Projeto 2](https://github.com/anaduart/NLP-Projects/blob/main/%5BLLM%5D%20Adeus_manual_chato!_RAG_chatbot_para_motoristas.ipynb): Adeus manual chato! RAG chatbot para motoristas.
 
 🎯 **Objetivo:**  criar um assistente de carro que explique avisos do painel e recomende ações durante a condução, desenvolvendo um chatbot com reconhecimento de contexto. Esse chatbot será integrado ao manual do carro por meio de um LLM, utilizando LangChain e a técnica de Geração Aumentada por Recuperação (RAG) para fornecer respostas precisas e contextuais. Diga adeus aos manuais chatos!
 
